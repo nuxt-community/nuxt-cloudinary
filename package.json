@@ -40,7 +40,7 @@
     }
   },
   "resolutions": {
-    "rollup-plugin-esbuild": "2.6.1"
+    "rollup-plugin-esbuild": "4.5.0"
   },
   "dependencies": {
     "@cld-apis/utils": "^0.1.3",
